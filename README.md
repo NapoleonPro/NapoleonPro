@@ -9,7 +9,7 @@ Projects & Explorations
 - Dorm Room Automation Bot
 
 <details>
-<summary>more metrics</summary>
+<summary>more</summary>
 
 <table width="2000">
 <tr>
@@ -19,13 +19,14 @@ Projects & Explorations
 
 <table>
 <tr>
-<td><img align="" width="" alt="bottom-metrics" src="/bottom.svg"></td>
+<td><img align="" width="" alt="bottom" src="/bottom.svg"></td>
+<td><img align="" width="" height="" alt="gif" src="https://github.com/user-attachments/assets/d2ca70f6-8b14-4147-b7eb-ed31f1900b54"></td>
 </tr>
 </table>
 
 <table width="2000">
 <tr>
-<td width="2000"><img src="https://github-trophies.vercel.app/?username=NapoleonPro&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
+<td width="2000"><img src="https://github-trophies.vercel.app/?username=NapoleonPro&rank=SECRET,SSS,SS,S,AAA,AA&row=1&column=9&theme=gruvbox"></td>
 </tr>
 </table>
 
