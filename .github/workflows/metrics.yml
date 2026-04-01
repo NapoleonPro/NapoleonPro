@@ -23,6 +23,7 @@ jobs:
           config_display: large
           config_padding: 0, 3%
           config_timezone: Asia/Jakarta
+          plugin_achievements: no        # ← TAMBAH INI
           plugin_people: yes
           plugin_people_types: followers
           plugin_lines: yes
@@ -48,6 +49,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
+          plugin_achievements: no        # ← TAMBAH INI JUGA
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
