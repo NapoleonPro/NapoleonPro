@@ -23,10 +23,11 @@ jobs:
           config_display: large
           config_padding: 0, 3%
           config_timezone: Asia/Jakarta
-          plugin_achievements: no        # ← TAMBAH INI
+          plugin_achievements: no
           plugin_people: yes
           plugin_people_types: followers
           plugin_lines: yes
+          plugin_lines_sections: history, repositories
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
@@ -49,7 +50,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_achievements: no        # ← TAMBAH INI JUGA
+          plugin_achievements: no
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
