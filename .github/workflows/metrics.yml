@@ -17,7 +17,7 @@ jobs:
           filename: bigass.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: NapoleonPro
+          user: Napoleonnnnn
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
