@@ -1,130 +1,206 @@
-# 👋 Hey there! I'm Napoleon Pro
-
 <div align="center">
 
-<!-- Animated Header -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NapoleonPro.NapoleonPro&left_color=black&right_color=0891b2)
-![Stars](https://img.shields.io/github/stars/NapoleonPro?color=fbbf24&logo=github&logoColor=white)
-
-**_"First, solve the problem. Then, write the code._" - Akbar Permana**
-
----
-
-## 💡 About Me
-
-Passionate **Full-Stack Developer** | **AI Enthusiast** | **Tech Innovator**
-
-I love building solutions that make a difference. From automation to intelligent systems, I'm always exploring the intersection of code and creativity.
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 </div>
 
-## 🚀 Featured Projects
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🎵 Smart Kecapi Auto-Tuner</h3>
-<p align="center">
-Intelligent tuning system for traditional instruments using machine learning at Innovillage
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🤖 Grading AI Agent</h3>
-<p align="center">
-Automated grading system for Google Classroom powered by AI
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">📊 Sentiment Analysis Web Scraper</h3>
-<p align="center">
-Real-time sentiment analysis using IndoBERT deep learning model
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🏠 Dorm Room Automation Bot</h3>
-<p align="center">
-Smart home automation system for IoT-enabled living spaces
-</p>
-</td>
-</tr>
-</table>
+```
+███╗   ██╗ █████╗ ██████╗  ██████╗ ██╗     ███████╗ ██████╗ ███╗   ██╗    ██████╗ ██████╗  ██████╗
+████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██║     ██╔════╝██╔═══██╗████╗  ██║    ██╔══██╗██╔══██╗██╔═══██╗
+██╔██╗ ██║███████║██████╔╝██║   ██║██║     █████╗  ██║   ██║██╔██╗ ██║    ██████╔╝██████╔╝██║   ██║
+██║╚██╗██║██╔══██║██╔═══╝ ██║   ██║██║     ██╔══╝  ██║   ██║██║╚██╗██║    ██╔═══╝ ██╔══██╗██║   ██║
+██║ ╚████║██║  ██║██║     ╚██████╔╝███████╗███████╗╚██████╔╝██║ ╚████║    ██║     ██║  ██║╚██████╔╝
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝     ╚═╝  ╚═╝ ╚═════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Builder+of+Intelligent+Systems;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NapoleonPro.NapoleonPro&left_color=0d1117&right_color=0891b2&left_text=visitors)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/NapoleonPro?color=0891b2&logo=github&logoColor=white&style=flat-square)
+&nbsp;
+![Follow](https://img.shields.io/github/followers/NapoleonPro?color=0891b2&logo=github&logoColor=white&style=flat-square&label=followers)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ3aGZia3QzZXBqNHlzMGszMzl3NWtxZHAzY2Z1cHI4dmw5MHN5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### About Me
+
+```yaml
+name: Akbar Permana
+alias: NapoleonPro
+location: Indonesia
+timezone: Asia/Jakarta
+
+role: Full-Stack Developer
+focus:
+  - AI & Machine Learning
+  - Intelligent Automation
+  - IoT Systems
+
+currently:
+  - building: AI-powered tools for education
+  - learning: LLM fine-tuning & agent systems
+  - exploring: real-time ML inference
+
+philosophy: >
+  "First, solve the problem.
+   Then, write the code."
+```
+
+<br clear="right"/>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=0891b2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ed8b00)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazon-aws&logoColor=ff9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
 
 <div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnc4N2l4Nm90OGxyYzJnanQ3eHlhcWFnbTl2NWVhcHZhZ3BmdWZsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60"/>
+</div>
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
-<td>
+<td width="50%" valign="top">
 
-![Napoleon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NapoleonPro&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&text_color=e0def4)
+**Smart Kecapi Auto-Tuner**
+
+Intelligent tuning system for traditional Sundanese instruments using real-time pitch detection and ML correction models. Built for Innovillage.
+
+`Python` `TensorFlow` `DSP` `IoT`
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NapoleonPro&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&text_color=e0def4)
+**Grading AI Agent**
+
+Automated grading pipeline for Google Classroom — reads submissions, evaluates answers with LLM reasoning, and returns structured feedback.
+
+`Python` `FastAPI` `Google API` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**IndoBERT Sentiment Scraper**
+
+Real-time web scraper with sentiment classification using fine-tuned IndoBERT. Designed for social media monitoring at scale.
+
+`Python` `HuggingFace` `BeautifulSoup` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+**Dorm Room Automation Bot**
+
+Smart home controller for IoT-enabled dorm rooms — voice commands, scheduled automation, and mobile dashboard integration.
+
+`Node.js` `MQTT` `Raspberry Pi` `React`
 
 </td>
 </tr>
 </table>
 
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc5dHh3eDNndWVic3d0aGV3dGlyeXhsZWZhazN5a3F6ZGtsd3VseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NapoleonPro&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&ring_color=0891b2" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NapoleonPro&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NapoleonPro&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NapoleonPro&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 ---
 
-## 🎖️ Achievements
+## Achievements
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=NapoleonPro&rank=SECRET,SSS,SS,S,AAA,AA&row=1&column=7&theme=gruvbox&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=NapoleonPro&rank=SECRET,SSS,SS,S,AAA,AA&row=1&column=7&theme=darkhub&margin-w=6&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## Metrics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://napoleonpro.dev)
+<img src="bigass.svg" alt="GitHub Metrics" width="100%"/>
+
+<br/>
+
+<img src="bottom.svg" alt="Bottom Metrics" width="100%"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHdpMmpubjhhZWZveW44djR6MzBzdnZveWVpMTViNWN5dHBzbDhsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnQjpWaON8nhr21vNW/giphy.gif" width="50"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0891b2)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=0891b2)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=0891b2)](https://napoleonpro.dev)
 
 </div>
 
@@ -132,8 +208,6 @@ Smart home automation system for IoT-enabled living spaces
 
 <div align="center">
 
-⭐ If you find my work interesting, feel free to star my repos and follow me! ⭐
-
-*Last Updated: 2026-04-02*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
