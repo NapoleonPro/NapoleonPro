@@ -33,27 +33,21 @@
 
 
 ### About Me
-
 ```yaml
 name: Akbar Permana
 alias: Napoleonnnnn
 location: Indonesia
-timezone: Asia/Jakarta
 
-role: Full-Stack Developer
+role: AI/ML Engineer
 focus:
   - AI & Machine Learning
   - Intelligent Automation
-  - IoT Systems
-
-currently:
-  - building: AI-powered tools for education
-  - learning: LLM fine-tuning & agent systems
-  - exploring: real-time ML inference
 
 philosophy: >
   "First, solve the problem.
    Then, write the code."
+
+
 ```
 
 <br clear="right"/>
