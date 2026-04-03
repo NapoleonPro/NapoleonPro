@@ -144,12 +144,6 @@ Smart home controller for IoT-enabled dorm rooms — voice commands, scheduled a
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Napoleonnnnn&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&ring_color=0891b2" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Napoleonnnnn&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9" height="165"/>
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Napoleonnnnn&theme=dark&hide_border=true&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" height="165"/>
 
 <br/><br/>
@@ -192,13 +186,12 @@ Smart home controller for IoT-enabled dorm rooms — voice commands, scheduled a
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0891b2)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0891b2)](https://www.linkedin.com/in/akbarpermana/)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=0891b2)](https://twitter.com)
 [![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=0891b2)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=0891b2)](https://napoleonnnnn.dev)
 
 </div>
-
 ---
 
 <div align="center">
@@ -206,3 +199,6 @@ Smart home controller for IoT-enabled dorm rooms — voice commands, scheduled a
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0891b2,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
+
+
+
